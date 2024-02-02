@@ -12,7 +12,7 @@
 
 | Name                | Application Date  |Contribution period | Stipened      | Timeline  |
 |---------------------|-------------------|--------------------|---------------|-----------|                          
-|    MLH Fellowship <br> ( for Asia region ) |  Jan- 31 March 2024 <br>  Jan- 15 Aril 2024    | May 20 – Aug 9, 2024 <br> Jun 17 – Sep 6, 2024 | Stipened | [Check here](https://fellowship.mlh.io/programs/open-source) |
+|    MLH Fellowship <br> ( for Asia region ) |  Jan - March 31, 2024 <br>  Jan - Aril 15, 2024    | May 20 – Aug 9, 2024 <br> Jun 17 – Sep 6, 2024 | Stipened | [Check here](https://fellowship.mlh.io/programs/open-source) |
 |    GSOC             | Feb 22 - March 18 |  March - Aug   | $ 1500-3000  | [Check here](https://developers.google.com/open-source/gsoc/timeline) |                  
 |    GSOD             | Feb - March  |  March - November  | $ 3000-6600  | [Check here](https://developers.google.com/season-of-docs/docs/timeline) |
 |    Summer of Bitcoin | Feb 1 - Feb 15, 2024                  | May 15 - Aug 15, 2024     | $ 3000 | [Check here](https://www.summerofbitcoin.org/how-it-works) |   
