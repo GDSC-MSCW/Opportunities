@@ -16,7 +16,7 @@
 |    GSOC             | February 22 - March 18 |  March - August    |  $1500 - $3000  | [Check here](https://developers.google.com/open-source/gsoc/timeline) |                  
 |    GSOD             | February - March  |  March - November  | $3000 - $6600  | [Check here](https://developers.google.com/season-of-docs/docs/timeline) |
 |    Summer of Bitcoin | Feb 1 - Feb 15, 2024                  | May 15 - Aug 15, 2024     | $3000 | [Check here](https://www.summerofbitcoin.org/how-it-works) |   
-|    Outreachy <br> [Northern Hemisphere] |  Jan 15 - Jan 29   | May 27 - Aug 23           |               |           |                           
+|    Outreachy <br> [Northern Hemisphere] |  Jan 15 - Jan 29   | May 27 - Aug 23           | $7000 |  [Check here](https://www.outreachy.org/blog/2024-01-15/may-2024-initial-applications-open/) |                           
 |    TSOC             |                   |                    |               |           |                           
 
 ## Research Opportunities
