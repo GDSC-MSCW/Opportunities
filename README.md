@@ -22,10 +22,10 @@
 
 #### Open Source Competitions
 
-| Name                | Application Date | Contribution Period |      Awards         |             Timeline                          |   
-|---------------------|------------------|---------------------|---------------------|-----------------------------------------------|
-| FOSSASIA Codeheat   |   Dec - March    |   Dec 1 - March 6   | Prizes For Winners  | [Check here](https://codeheat.org/#timeline)  |
-|                     |                  |                     |                  |                                               |
+| Name                | Application Date | Contribution Period |      Awards         | Certificate |             Timeline                          |   
+|---------------------|------------------|---------------------|---------------------|-------------|-----------------------------------------------|
+| FOSSASIA Codeheat   |   Dec - March    |   Dec 1 - March 6   | Prizes For Winners  |   Yes       | [Check here](https://codeheat.org/#timeline)  |
+| JGEC Winter of Code |  Dec 7 - Dec 26  |   Jan 5 - Feb 19    | Goodies for top performers |  Yes |[Check here](https://jgec-winter-of-code.github.io/#timeline) |
 |                     |                  |                     |                  |                                               |
 |                     |                  |                     |                  |                                               |
 |                     |                  |                     |                  |                                               |
@@ -35,14 +35,14 @@
 
 #### University Open Source Competitions
 
-| Name                | Application Date | Contribution Period |                      Awards                 |             Timeline                          |   
-|---------------------|------------------|---------------------|---------------------------------------------|-----------------------------------------------|
-| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                | [Check here](https://fossoverflow.dev/)       |                    
-|                     |                  |                     |                                             |                                               |
-|                     |                  |                     |                                             |                                               |
-|                     |                  |                     |                                             |                                               |
-|                     |                  |                     |                                             |                                               |
-|                     |                  |                     |                                             |                                               |
+| Name                | Application Date | Contribution Period |                      Awards                 | Certificate |          Timeline                          |   
+|---------------------|------------------|---------------------|---------------------------------------------|-------------|--------------------------------------------|
+| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                |     Yes     |[Check here](https://fossoverflow.dev/)       |                    
+|                     |                  |                     |                                             |             |                                 |
+|                     |                  |                     |                                             |             |                                 |
+|                     |                  |                     |                                             |             |                                 |
+|                     |                  |                     |                                             |             |                                 |
+|                     |                  |                     |                                             |             |                                 |
 
 
 ## Research Opportunities
