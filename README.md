@@ -37,7 +37,7 @@
 
 | Name                | Application Date | Contribution Period |                      Awards                 |             Timeline                          |   
 |---------------------|------------------|---------------------|---------------------------------------------|-----------------------------------------------|
-| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR, Swags & Certification | [Check here](https://fossoverflow.dev/)       |                    
+| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                | [Check here](https://fossoverflow.dev/)       |                    
 |                     |                  |                     |                                             |                                               |
 |                     |                  |                     |                                             |                                               |
 |                     |                  |                     |                                             |                                               |
