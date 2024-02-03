@@ -9,15 +9,41 @@
 
 ## Open Source Opportunities
 
+#### Open Source Programs
 
-| Name                | Application Date  |Contribution period | Stipened      | Timeline  |
-|---------------------|-------------------|--------------------|---------------|-----------|                          
-|    MLH Fellowship <br> ( for Asia region ) | Jan - March 31, 2024 <br> Jan - Aril 15, 2024    | May 20 – Aug 9, 2024 <br> Jun 17 – Sep 6, 2024 | Stipened | [Check here](https://fellowship.mlh.io/programs/open-source) |
-|    GSOC             | Feb 22 - March 18 |  March - Aug   | $ 1500-3000  | [Check here](https://developers.google.com/open-source/gsoc/timeline) |                  
-|    GSOD             | Feb - March  |  March - November  | $ 3000-6600  | [Check here](https://developers.google.com/season-of-docs/docs/timeline) |
-|    Summer of Bitcoin | Feb 1 - Feb 15, 2024                  | May 15 - Aug 15, 2024     | $ 3000 | [Check here](https://www.summerofbitcoin.org/how-it-works) |   
-|    Outreachy <br> [Northern Hemisphere] |  Jan 15 - Jan 29   | May 27 - Aug 23           | $ 7000 |  [Check here](https://www.outreachy.org/blog/2024-01-15/may-2024-initial-applications-open/) |                           
-|    TSOC             |                   |                    |               |           |                           
+|                    Name                    |                 Application Date                 |            Contribution period                 | Stipened      | Timeline  |
+|--------------------------------------------|--------------------------------------------------|------------------------------------------------|---------------|-----------|                  
+|    MLH Fellowship <br> ( for Asia region ) | Jan - March 31, 2024 <br> Jan - Aril 15, 2024    | May 20 – Aug 9, 2024 <br> Jun 17 – Sep 6, 2024 | up to $5000   | [Check here](https://fellowship.mlh.io/programs/open-source) |
+|                    GSOC                    |   Feb 22 - March 18     |  March - Aug   | $ 1500-3000  | [Check here](https://developers.google.com/open-source/gsoc/timeline) |                
+|                    GSOD                    | Feb - March  |  March - November  | $ 3000-6600  | [Check here](https://developers.google.com/season-of-docs/docs/timeline) |
+|               Summer of Bitcoin            | Feb 1 - Feb 15, 2024                  | May 15 - Aug 15, 2024     | $ 3000 | [Check here](https://www.summerofbitcoin.org/how-it-works) |   
+|       Outreachy <br> [Northern Hemisphere] |  Jan 15 - Jan 29, 2024   | May 27 - Aug 23, 2024  | $ 7000 |  [Check here](https://www.outreachy.org/blog/2024-01-15/may-2024-initial-applications-open/) |                           
+|                  XROS                      | Feb 20 - March 15  | April 3 - June 30 | INR 4 Lakh | [Check here](https://xrosfellowship.ficci.in/#timeline) |                           
+
+#### Open Source Competitions
+
+| Name                | Application Date | Contribution Period |      Awards         |             Timeline                          |   
+|---------------------|------------------|---------------------|---------------------|-----------------------------------------------|
+| FOSSASIA Codeheat   |   Dec - March    |   Dec 1 - March 6   | Prizes For Winners  | [Check here](https://codeheat.org/#timeline)  |
+|                     |                  |                     |                  |                                               |
+|                     |                  |                     |                  |                                               |
+|                     |                  |                     |                  |                                               |
+|                     |                  |                     |                  |                                               |
+|                     |                  |                     |                  |                                               |
+|                     |                  |                     |                  |                                               |
+
+
+#### University Open Source Competitions
+
+| Name                | Application Date | Contribution Period |                      Awards                 |             Timeline                          |   
+|---------------------|------------------|---------------------|---------------------------------------------|-----------------------------------------------|
+| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR, Swags & Certification | [Check here](https://fossoverflow.dev/)       |                    
+|                     |                  |                     |                                             |                                               |
+|                     |                  |                     |                                             |                                               |
+|                     |                  |                     |                                             |                                               |
+|                     |                  |                     |                                             |                                               |
+|                     |                  |                     |                                             |                                               |
+
 
 ## Research Opportunities
 
