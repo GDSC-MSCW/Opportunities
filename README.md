@@ -40,9 +40,9 @@
 | Name                | Application Date | Contribution Period |                      Awards                 |          Timeline                          |   
 |---------------------|------------------|---------------------|---------------------------------------------|--------------------------------------------|
 |       Codepeak      | Nov 15 - Nov 30  |    Dec 7 - Dec 28   |[Prizes For Winners](https://www.codepeak.tech/reward)| [Check here](https://www.codepeak.tech/) |
-| Kharagpur Winter of Code | Nov 25 - Dec 15 |  Dec 9 - Jan 9  |        Prizes For Winners                   | [Check here](https://kwoc.kossiitkgp.org/) |
-| JGEC Winter of Code |  Dec 7 - Dec 26  |   Jan 5 - Feb 19    | Prizes For Winners      |  [Check here](https://jgec-winter-of-code.github.io/#timeline) |
-| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                | [Check here](https://fossoverflow.dev/)    | 
+|       KWOC          | Nov 25 - Dec 15 |  Dec 9 - Jan 9  |        Prizes For Winners                   | [Check here](https://kwoc.kossiitkgp.org/) |
+|       JGEC          |  Dec 7 - Dec 26  |   Jan 5 - Feb 19    | Prizes For Winners      |  [Check here](https://jgec-winter-of-code.github.io/#timeline) |
+|   FOSS Overflow     | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                | [Check here](https://fossoverflow.dev/)    | 
 
 
 
