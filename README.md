@@ -2,7 +2,6 @@
 
 ## Internship opportunities 
 
-
 | Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
 |                     |                   |                  |                 |           |                           |
