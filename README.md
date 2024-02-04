@@ -18,31 +18,29 @@
 |                    GSOD                    | Feb - March  |  March - November  | $ 3000-6600  | [Check here](https://developers.google.com/season-of-docs/docs/timeline) |
 |               Summer of Bitcoin            | Feb 1 - Feb 15, 2024                  | May 15 - Aug 15, 2024     | $ 3000 | [Check here](https://www.summerofbitcoin.org/how-it-works) |   
 |       Outreachy <br> [Northern Hemisphere] |  Jan 15 - Jan 29, 2024   | May 27 - Aug 23, 2024  | $ 7000 |  [Check here](https://www.outreachy.org/blog/2024-01-15/may-2024-initial-applications-open/) |                           
-|                  XROS                      | Feb 20 - March 15  | April 3 - June 30 | INR 4 Lakh | [Check here](https://xrosfellowship.ficci.in/#timeline) |                           
+|                  XROS                      | Feb 20 - March 15  | April 3 - June 30 | INR 4 Lakh | [Check here](https://xrosfellowship.ficci.in/#timeline) | 
+|LFX Mentorship <br> [Spring Term] <br> [Summer Term] <br> [Fall Term] | <br> mid Jan <br> mid April <br> mid July | <br> March 1 - May 31 <br> June 1 - August 31 <br> September 1 - Nov 30 | $6000 | [Check here](https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines) |
+|                  RGSOC                     | March 2 - March 30 | July - Sept       | Yes | [Check here](https://railsgirlssummerofcode.org/) |
+|       Mozilla Winter of Security           | July 29 - Sept 30 | 6 months | No | [Check here](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016)
 
 #### Open Source Competitions
 
 | Name                | Application Date | Contribution Period |      Awards         |             Timeline                          |   
 |---------------------|------------------|---------------------|---------------------|-----------------------------------------------|
+|     TSOC            |  April 13 - April 21 |   May 15 - Aug 15   | Prizes for Contributors | [Check here](https://tsoc.dev/)       |
+|     SWOC            |  Aug 15 - Dec 20 | Jan 1 - Feb 28 | Prizes for Winners | [Check here](https://www.socialwinterofcode.com/)   | 
+|     GSSOC           |   May            | May 20 - Aug 10 | Prizes for Winners | [Check here](https://gssoc.girlscript.tech/#)      |
+| Hacktoberfest       | Sept 26 - Oct 31 |   Oct 1 - Oct 31    | Digital Reward Kit <br> Tree Planted in your name. | [Check here](https://hacktoberfest.com/participation/) |
 | FOSSASIA Codeheat   |   Dec - March    |   Dec 1 - March 6   | Prizes For Winners  | [Check here](https://codeheat.org/#timeline)  |
 | JGEC Winter of Code |  Dec 7 - Dec 26  |   Jan 5 - Feb 19    | Goodies for top performers |  [Check here](https://jgec-winter-of-code.github.io/#timeline) |
-|                     |                  |                     |                  |                                               |
-|                     |                  |                     |                  |                                               |
-|                     |                  |                     |                  |                                               |
-|                     |                  |                     |                  |                                               |
-|                     |                  |                     |                  |                                               |
+
 
 
 #### University Open Source Competitions
 
 | Name                | Application Date | Contribution Period |                      Awards                 |          Timeline                          |   
 |---------------------|------------------|---------------------|---------------------------------------------|--------------------------------------------|
-| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                | [Check here](https://fossoverflow.dev/)       |                    
-|                     |                  |                     |                                             |                                               |
-|                     |                  |                     |                                             |                                               |
-|                     |                  |                     |                                             |                                               |
-|                     |                  |                     |                                             |                                               |
-|                     |                  |                     |                                             |                                               |
+| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                | [Check here](https://fossoverflow.dev/)    |                    
 
 
 ## Research Opportunities
