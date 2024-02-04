@@ -28,19 +28,23 @@
 | Name                | Application Date | Contribution Period |      Awards         |             Timeline                          |   
 |---------------------|------------------|---------------------|---------------------|-----------------------------------------------|
 |     TSOC            |  April 13 - April 21 |   May 15 - Aug 15   | Prizes for Contributors | [Check here](https://tsoc.dev/)       |
+|     SSOC            |  May - April     | June - July | Prizes for Winners | [Check here](https://hack2skill.com/hack/ssoc)         |
+|     GSSOC           |   May - April    | May 20 - Aug 10 | Prizes for Winners | [Check here](https://gssoc.girlscript.tech/#)      |
 |     SWOC            |  Aug 15 - Dec 20 | Jan 1 - Feb 28 | Prizes for Winners | [Check here](https://www.socialwinterofcode.com/)   | 
-|     GSSOC           |   May            | May 20 - Aug 10 | Prizes for Winners | [Check here](https://gssoc.girlscript.tech/#)      |
 | Hacktoberfest       | Sept 26 - Oct 31 |   Oct 1 - Oct 31    | Digital Reward Kit <br> Tree Planted in your name. | [Check here](https://hacktoberfest.com/participation/) |
 | FOSSASIA Codeheat   |   Dec - March    |   Dec 1 - March 6   | Prizes For Winners  | [Check here](https://codeheat.org/#timeline)  |
-| JGEC Winter of Code |  Dec 7 - Dec 26  |   Jan 5 - Feb 19    | Goodies for top performers |  [Check here](https://jgec-winter-of-code.github.io/#timeline) |
-
 
 
 #### University Open Source Competitions
 
 | Name                | Application Date | Contribution Period |                      Awards                 |          Timeline                          |   
 |---------------------|------------------|---------------------|---------------------------------------------|--------------------------------------------|
-| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                | [Check here](https://fossoverflow.dev/)    |                    
+|       Codepeak      | Nov 15 - Nov 30  |    Dec 7 - Dec 28   |[Prizes For Winners](https://www.codepeak.tech/reward)| [Check here](https://www.codepeak.tech/) |
+| Kharagpur Winter of Code | Nov 25 - Dec 15 |  Dec 9 - Jan 9  |        Prizes For Winners                   | [Check here](https://kwoc.kossiitkgp.org/) |
+| JGEC Winter of Code |  Dec 7 - Dec 26  |   Jan 5 - Feb 19    | Prizes For Winners      |  [Check here](https://jgec-winter-of-code.github.io/#timeline) |
+| FOSS Overflow       | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                | [Check here](https://fossoverflow.dev/)    | 
+
+
 
 
 ## Research Opportunities
