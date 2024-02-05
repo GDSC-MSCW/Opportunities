@@ -4,49 +4,49 @@
 
 #### Tech Internships
 
-| Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
-|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-| Hackwithinfy        | Feb               |                  | 2nd & 3rd year  |           |                           |
-| American Express    | Aug & Nov         |                  | 3rd & Final year| 70K/month |                           |
-| Intuit              | Nov-Dec           |                  | 3rd & Final year|           |                           |
-| Microsoft Engage    |                   |                  |                 |           |                           |
-| Flipkart Grid       |                   |                  |                 |           |                           |
-| Myntra <br> [Hackerramp] |  Sept        |                  | 3rd year        |           |                           |
-| Google Step         |                   |                  |                 |           |                           |
-| Optum <br> [Stratethon] | Nov           |                  | All Years       | 35K/month |                           |
-| Hackerrank          |                   |                  |                 |           |                           |
-| Cisco               |                   |                  |                 |           |                           |
-| BNY Mellon          |                   |                  |                 |           |                           |
-| DeShaw              |                   |                  |                 |           |                           |
+| Name                |     Timeline      |  Eligibility     | Stipend         | Website     |
+|---------------------|-------------------|------------------|-----------------|-------------|
+| Hackwithinfy        | Feb               |  2nd & 3rd year  |                 |             |             
+| American Express    | Aug & Nov         |  3rd & Final year| 70K/month       |             |              
+| Intuit              | Nov-Dec           |  3rd & Final year|1 Lakh/month     |             |             
+| Microsoft Engage    |                   |                  |                 |             |                           
+| Flipkart Grid       | June              |  All years       |1 Lakh/month     |             |             
+| Myntra <br> [Hackerramp] |  Sept        |                  | 3rd year        |             |                           
+| Google Step         |                   |                  |                 |             |                           
+| Optum <br> [Stratethon] | Nov           |  All Years       | 35K/month       |             |              
+| Hackerrank          |                   |                  |                 |             |                           
+| Cisco               |                   |                  |                 |             |                           
+| BNY Mellon          |                   |                  |                 |             |                           
+| DeShaw              |                   |                  |                 |             |                           
 
 #### Government Internships
 
-| Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
-|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-|    NITI Aayog       |                   |                  |                 |           |                           |
-|    NCGG             |                   |                  |                 |           |                           |
-|    SECI             |                   |                  |                 |           |                           |
-|    TULIP            |                   |                  |                 |           |                           |
-| NHRC <br> Short Term <br> Long Term |   |                  |                 |           |                           |
-|    MEA              |                   |                  |                 |           |                           |
-|    DPIIT            |                   |                  |                 |           |                           |
-|    Digital India    |                   |                  |                 |           |                           |
+| Name                |    Timeline       |  Eligibility     | Stipend         | Website                   
+|---------------------|-------------------|------------------|-----------------|-----------|
+|    NITI Aayog       |                   |                  |                 |           |                           
+|    NCGG             |                   |                  |                 |           |                           
+|    SECI             |                   |                  |                 |           |                           
+|    TULIP            |                   |                  |                 |           |                           
+| NHRC <br> Short Term <br> Long Term |   |                  |                 |           |                           
+|    MEA              |                   |                  |                 |           |                           
+|    DPIIT            |                   |                  |                 |           |                           
+|    Digital India    |                   |                  |                 |           |                           
 
 #### Finance Internships
 
-| Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
-|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-| Goldman Sachs       | Aug & Feb         |                  |                 |1 Lakh/month|                          |
-| Morgan Stanley      |                   |                  |                 |           |                           |
-| Barclays            |                   |                  |                 |           |                           |
-| Citi Bank           |                   |                  |                 |           |                           |
-| JP Morgan           |                   |                  |                 |           |                           |
-| HSBC                |                   |                  |                 |           |                           |
-| HDFC                |                   |                  |                 |           |                           |
-| ICICI Bank          |                   |                  |                 |           |                           |
-| Axis                |                   |                  |                 |           |                           |
-| Aditya Birla        |                   |                  |                 |           |                           |
-| Kotak               |                   |                  |                 |           |                           |
+| Name                | Timeline          |  Eligibility     | Stipend         | Website      |
+|---------------------|-------------------|------------------|-----------------|--------------|
+| Goldman Sachs       | Aug & Feb         |                  | 1 Lakh/month    |              |                          
+| Morgan Stanley      |                   |                  |                 |              |                           
+| Barclays            |                   |                  |                 |              |                           
+| Citi Bank           |                   |                  |                 |              |                           
+| JP Morgan           |                   |                  |                 |              |                           
+| HSBC                |                   |                  |                 |              |                           
+| HDFC                |                   |                  |                 |              |                           
+| ICICI Bank          |                   |                  |                 |              |                           
+| Axis                |                   |                  |                 |              |                           
+| Aditya Birla        |                   |                  |                 |              |                           
+| Kotak               |                   |                  |                 |              |                           
 
 #### Social Internships
 
