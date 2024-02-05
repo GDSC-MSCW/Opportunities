@@ -25,7 +25,17 @@
 
 | Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-|                     |                   |                  |                 |           |                           |
+| Goldman Sachs       |                   |                  |                 |           |                           |
+| Morgan Stanley      |                   |                  |                 |           |                           |
+| Barclays            |                   |                  |                 |           |                           |
+| Citi Bank           |                   |                  |                 |           |                           |
+| JP Morgan           |                   |                  |                 |           |                           |
+| HSBC                |                   |                  |                 |           |                           |
+| HDFC                |                   |                  |                 |           |                           |
+| ICICI Bank          |                   |                  |                 |           |                           |
+| Axis                |                   |                  |                 |           |                           |
+| Aditya Birla        |                   |                  |                 |           |                           |
+| Kotak               |                   |                  |                 |           |                           |
 
 #### Social Internships
 
