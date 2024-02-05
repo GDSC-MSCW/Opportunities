@@ -2,6 +2,26 @@
 
 ## Internship opportunities 
 
+#### Tech Internships
+
+| Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
+|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
+|                     |                   |                  |                 |           |                           |
+
+#### Government Internships
+
+| Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
+|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
+|                     |                   |                  |                 |           |                           |
+
+#### Finance Internships
+
+| Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
+|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
+|                     |                   |                  |                 |           |                           |
+
+#### Social Internships
+
 | Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
 |                     |                   |                  |                 |           |                           |
@@ -51,3 +71,10 @@
 | Name                | Application Date  | Internship Date  | Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
 |                     |                   |                  |                 |           |                           |
+
+## Campus Ambassador Programs
+
+| Name                | Application Date  | Internship Date  | Eligibility     | Stipend   | Website                   |
+|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
+|                     |                   |                  |                 |           |                           |
+
