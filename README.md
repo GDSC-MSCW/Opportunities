@@ -11,9 +11,9 @@
 | Intuit              | Nov-Dec           |                  | 3rd & Final year|           |                           |
 | Microsoft Engage    |                   |                  |                 |           |                           |
 | Flipkart Grid       |                   |                  |                 |           |                           |
-| Myntra              |                   |                  |                 |           |                           |
+| Myntra <br> [Hackerramp] |  Sept        |                  | 3rd year        |           |                           |
 | Google Step         |                   |                  |                 |           |                           |
-| Optum <br> [Stratethon]|  Nov           |                  | All Years       | 35K/month |                           |
+| Optum <br> [Stratethon] | Nov           |                  | All Years       | 35K/month |                           |
 | Hackerrank          |                   |                  |                 |           |                           |
 | Cisco               |                   |                  |                 |           |                           |
 | BNY Mellon          |                   |                  |                 |           |                           |
@@ -36,7 +36,7 @@
 
 | Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-| Goldman Sachs       |                   |                  |                 |           |                           |
+| Goldman Sachs       | Aug & Feb         |                  |                 |1 Lakh/month|                          |
 | Morgan Stanley      |                   |                  |                 |           |                           |
 | Barclays            |                   |                  |                 |           |                           |
 | Citi Bank           |                   |                  |                 |           |                           |
