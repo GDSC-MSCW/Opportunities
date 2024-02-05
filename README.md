@@ -6,7 +6,18 @@
 
 | Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-|                     |                   |                  |                 |           |                           |
+| Hackwithinfy        |                   |                  |                 |           |                           |
+| American Express    |                   |                  |                 |           |                           |
+| Intuit              |                   |                  |                 |           |                           |
+| Microsoft Engage    |                   |                  |                 |           |                           |
+| Flipkart Grid       |                   |                  |                 |           |                           |
+| Myntra              |                   |                  |                 |           |                           |
+| Google Step         |                   |                  |                 |           |                           |
+| Optum               |                   |                  |                 |           |                           |
+| Hackerrank          |                   |                  |                 |           |                           |
+| Cisco               |                   |                  |                 |           |                           |
+| BNY Mellon          |                   |                  |                 |           |                           |
+| DeShaw              |                   |                  |                 |           |                           |
 
 #### Government Internships
 
@@ -59,7 +70,7 @@
 |                  XROS                      | Feb 20 - March 15  | April 3 - June 30 | INR 4 Lakh | [Check here](https://xrosfellowship.ficci.in/#timeline) | 
 |LFX Mentorship <br> [Spring Term] <br> [Summer Term] <br> [Fall Term] | <br> mid Jan <br> mid April <br> mid July | <br> March 1 - May 31 <br> June 1 - August 31 <br> September 1 - Nov 30 | $6000 | [Check here](https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines) |
 |                  RGSOC                     | March 2 - March 30 | July - Sept       | Yes | [Check here](https://railsgirlssummerofcode.org/) |
-|       Mozilla Winter of Security           | July 29 - Sept 30 | 6 months | No | [Check here](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016)
+|       Mozilla Winter of Security           | July 29 - Sept 30 | 6 months | No | [Check here](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) |
 
 #### Open Source Competitions
 
@@ -89,11 +100,26 @@
 
 | Name                | Application Date  | Internship Date  | Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-|                     |                   |                  |                 |           |                           |
+| ICTS Summer research|                   |                  |                 |           |                           |
+| IITB                |                   |                  |                 |           |                           |
+| IITD                |                   |                  |                 |           |                           |
+| IITK                |                   |                  |                 |           |                           |
+| IIIT HYDERABAD      |                   |                  |                 |           |                           |
+| Mitacs Globalink    |                   |                  |                 |           |                           |
+| IIM Indore          |                   |                  |                 |           |                           |
+| IIM Kozhikode       |                   |                  |                 |           |                           |
+| IIM Lucknow         |                   |                  |                 |           |                           |
+| IIM Calcutta        |                   |                  |                 |           |                           |
+| IIM Bangalore       |                   |                  |                 |           |                           |
+| IIM Ahmedabad       |                   |                  |                 |           |                           |
 
 ## Campus Ambassador Programs
 
 | Name                | Application Date  | Internship Date  | Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-|                     |                   |                  |                 |           |                           |
+| MLSA                |                   |                  |                 |           |                           |
+| Github Campus Expert|                   |                  |                 |           |                           |
+| GDSC                |                   |                  |                 |           |                           |
+| GFG Campus Mantri   |                   |                  |                 |           |                           |
+| OnePlus Student Ambassador |            |                  |                 |           |                           |
 
