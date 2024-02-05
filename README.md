@@ -6,7 +6,7 @@
 
 | Name                |     Timeline      |  Eligibility     |    Stipend      |                      Website                                     |
 |---------------------|-------------------|------------------|-----------------|------------------------------------------------------------------|
-| Infosys <br> [Hackwithinfy] | Feb       |  2nd & 3rd year  |    Yes          |  [Check here](https://www.infosys.com/careers/hackwithinfy.html) |             
+| Infosys <br> [Hackwithinfy] | Feb       |  2nd & 3rd year  |2 Lakh, 1 Lakh, 50K for winners |  [Check here](https://www.infosys.com/careers/hackwithinfy.html) |             
 | American Express    | Aug & Nov         |  3rd & Final year| 70K/month       |             |              
 | Intuit              | Nov-Dec           |  3rd & Final year|1 Lakh/month     |             |             
 | Microsoft Engage    |                   |                  |                 |             |                           
