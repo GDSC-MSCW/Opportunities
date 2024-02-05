@@ -6,14 +6,14 @@
 
 | Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-| Hackwithinfy        |                   |                  |                 |           |                           |
-| American Express    |                   |                  |                 |           |                           |
-| Intuit              |                   |                  |                 |           |                           |
+| Hackwithinfy        | Feb               |                  | 2nd & 3rd year  |           |                           |
+| American Express    | Aug & Nov         |                  | 3rd & Final year| 70K/month |                           |
+| Intuit              | Nov-Dec           |                  | 3rd & Final year|           |                           |
 | Microsoft Engage    |                   |                  |                 |           |                           |
 | Flipkart Grid       |                   |                  |                 |           |                           |
 | Myntra              |                   |                  |                 |           |                           |
 | Google Step         |                   |                  |                 |           |                           |
-| Optum               |                   |                  |                 |           |                           |
+| Optum <br> [Stratethon]|  Nov           |                  | All Years       | 35K/month |                           |
 | Hackerrank          |                   |                  |                 |           |                           |
 | Cisco               |                   |                  |                 |           |                           |
 | BNY Mellon          |                   |                  |                 |           |                           |
