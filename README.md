@@ -50,11 +50,11 @@
 
 #### Social Internships
 
-| Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
-|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-| iVolunteer          |                   |                  |                 |           |                           |
-| Teach For India     |                   |                  |                 |           |                           |
-| Abhijit Sen Rural Internship |          |                  |                 |           |                           |
+| Name                         |     Timeline      |  Eligibility     | Stipend         | Website                   |
+|------------------------------|-------------------|------------------|-----------------|---------------------------|
+| iVolunteer                   |                   |                  |                 |                           |
+| Teach For India              |                   |                  |                 |                           |
+| Abhijit Sen Rural Internship |                   |                  |                 |                           |
 
 ## Open Source Opportunities
 
@@ -115,11 +115,11 @@
 
 ## Campus Ambassador Programs
 
-| Name                | Application Date  | Internship Date  | Eligibility     | Stipend   | Website                   |
-|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-| MLSA                |                   |                  |                 |           |                           |
-| Github Campus Expert|                   |                  |                 |           |                           |
-| GDSC                |                   |                  |                 |           |                           |
-| GFG Campus Mantri   |                   |                  |                 |           |                           |
-| OnePlus Student Ambassador |            |                  |                 |           |                           |
+| Name                       |     Timeline      | Eligibility      |     Stipend     |          Website                   |
+|----------------------------|-------------------|------------------|-----------------|------------------------------------|
+| MLSA                       |                   |                  |                 |                                    |
+| Github Campus Expert       |                   |                  |                 |                                    |
+| GDSC                       |                   |                  |                 |                                    |
+| GFG Campus Mantri          |                   |                  |                 |                                    |
+| OnePlus Student Ambassador |                   |                  |                 |                                    |
 
