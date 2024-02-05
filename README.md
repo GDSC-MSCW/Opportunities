@@ -12,7 +12,14 @@
 
 | Name                | Application Start | Internship period| Eligibility     | Stipend   | Website                   |
 |---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-|                     |                   |                  |                 |           |                           |
+|    NITI Aayog       |                   |                  |                 |           |                           |
+|    NCGG             |                   |                  |                 |           |                           |
+|    SECI             |                   |                  |                 |           |                           |
+|    TULIP            |                   |                  |                 |           |                           |
+| NHRC <br> Short Term <br> Long Term |   |                  |                 |           |                           |
+|    MEA              |                   |                  |                 |           |                           |
+|    DPIIT            |                   |                  |                 |           |                           |
+|    Digital India    |                   |                  |                 |           |                           |
 
 #### Finance Internships
 
