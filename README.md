@@ -4,9 +4,9 @@
 
 #### Tech Internships
 
-| Name                |     Timeline      |  Eligibility     | Stipend         | Website     |
-|---------------------|-------------------|------------------|-----------------|-------------|
-| Hackwithinfy        | Feb               |  2nd & 3rd year  |                 |             |             
+| Name                |     Timeline      |  Eligibility     |    Stipend      |                      Website                                     |
+|---------------------|-------------------|------------------|-----------------|------------------------------------------------------------------|
+| Infosys <br> [Hackwithinfy] | Feb       |  2nd & 3rd year  |    Yes          |  [Check here](https://www.infosys.com/careers/hackwithinfy.html) |             
 | American Express    | Aug & Nov         |  3rd & Final year| 70K/month       |             |              
 | Intuit              | Nov-Dec           |  3rd & Final year|1 Lakh/month     |             |             
 | Microsoft Engage    |                   |                  |                 |             |                           
