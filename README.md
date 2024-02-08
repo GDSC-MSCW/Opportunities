@@ -4,13 +4,13 @@
 
 #### Tech Internships
 
-| Name                |     Timeline      |  Eligibility     |    Stipend      |                      Website                                     |
-|---------------------|-------------------|------------------|-----------------|------------------------------------------------------------------|
-| Infosys <br> [Hackwithinfy] | Feb       |  2nd & 3rd year  |2 Lakh, 1 Lakh, 50K for winners |  [Check here](https://www.infosys.com/careers/hackwithinfy.html) |             
-| American Express    | Aug & Nov         |  3rd & Final year| 70K/month       |             |              
-| Intuit              | Nov-Dec           |  3rd & Final year|1 Lakh/month     |             |             
-| Microsoft Engage    |                   |                  |                 |             |                           
-| Flipkart Grid       | June              |  All years       |1 Lakh/month     |             |             
+| Name                |     Timeline      |  Eligibility     |                      Website                                     |
+|---------------------|-------------------|------------------|------------------------------------------------------------------|
+| Infosys <br> [Hackwithinfy] | Feb       |  2nd & 3rd year  |  [Check here](https://www.infosys.com/careers/hackwithinfy.html) |             
+| American Express    | April-June <br> Jan-June <br> July-Dec | 2nd & Third year <br> Final yera <br> final year | [Check here](https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html)              
+| Intuit              | Nov-Dec           |  3rd & Final year|                               |             
+| Microsoft Engage    |                   |                  |                               |                           
+| Flipkart Grid       | June              |  All years       |                               |             
 | Myntra <br> [Hackerramp] |  Sept        |                  | 3rd year        |             |                           
 | Google Step         |                   |                  |                 |             |                           
 | Optum <br> [Stratethon] | Nov           |  All Years       | 35K/month       |             |              
