@@ -21,40 +21,40 @@
 
 #### Government Internships
 
-| Name                |    Timeline       |  Eligibility     | Stipend         | Website                   
-|---------------------|-------------------|------------------|-----------------|-----------|
-|    NITI Aayog       |                   |                  |                 |           |                           
-|    NCGG             |                   |                  |                 |           |                           
-|    SECI             |                   |                  |                 |           |                           
-|    TULIP            |                   |                  |                 |           |                           
-| NHRC <br> Short Term <br> Long Term |   |                  |                 |           |                           
-|    MEA              |                   |                  |                 |           |                           
-|    DPIIT            |                   |                  |                 |           |                           
-|    Digital India    |                   |                  |                 |           |                           
+| Name                |    Timeline       |  Eligibility     |       Website               |    
+|---------------------|-------------------|------------------|-----------------------------|
+|    NITI Aayog       |                   |                  |                             |                           
+|    NCGG             |                   |                  |                             |                           
+|    SECI             |                   |                  |                             |                           
+|    TULIP            |                   |                  |                             |                           
+| NHRC <br> Short Term <br> Long Term |   |                  |                             |                           
+|    MEA              |                   |                  |                             |                           
+|    DPIIT            |                   |                  |                             |                           
+|    Digital India    |                   |                  |                             |                           
 
 #### Finance Internships
 
-| Name                | Timeline          |  Eligibility     | Stipend         | Website      |
-|---------------------|-------------------|------------------|-----------------|--------------|
-| Goldman Sachs       | Aug & Feb         |                  | 1 Lakh/month    |              |                          
-| Morgan Stanley      |                   |                  |                 |              |                           
-| Barclays            |                   |                  |                 |              |                           
-| Citi Bank           |                   |                  |                 |              |                           
-| JP Morgan           |                   |                  |                 |              |                           
-| HSBC                |                   |                  |                 |              |                           
-| HDFC                |                   |                  |                 |              |                           
-| ICICI Bank          |                   |                  |                 |              |                           
-| Axis                |                   |                  |                 |              |                           
-| Aditya Birla        |                   |                  |                 |              |                           
-| Kotak               |                   |                  |                 |              |                           
+| Name                | Timeline          |  Eligibility     |            Website             |
+|---------------------|-------------------|------------------|--------------------------------|
+| Goldman Sachs       | Aug & Feb         |                  |                                |                          
+| Morgan Stanley      |                   |                  |                                |                           
+| Barclays            |                   |                  |                                |                           
+| Citi Bank           |                   |                  |                                |                           
+| JP Morgan           |                   |                  |                                |                           
+| HSBC                |                   |                  |                                |                           
+| HDFC                |                   |                  |                                |                           
+| ICICI Bank          |                   |                  |                                |                           
+| Axis                |                   |                  |                                |                           
+| Aditya Birla        |                   |                  |                                |                           
+| Kotak               |                   |                  |                                |                           
 
 #### Social Internships
 
-| Name                         |     Timeline      |  Eligibility     | Stipend         | Website                   |
-|------------------------------|-------------------|------------------|-----------------|---------------------------|
-| iVolunteer                   |                   |                  |                 |                           |
-| Teach For India              |                   |                  |                 |                           |
-| Abhijit Sen Rural Internship |                   |                  |                 |                           |
+| Name                         |     Timeline      |  Eligibility     |                 Website                     |
+|------------------------------|-------------------|------------------|---------------------------------------------|
+| iVolunteer                   |                   |                  |                                             |
+| Teach For India              |                   |                  |                                             |
+| Abhijit Sen Rural Internship |                   |                  |                                             |
 
 ## Open Source Opportunities
 
@@ -98,28 +98,28 @@
 
 ## Research Opportunities
 
-| Name                | Application Date  | Internship Date  | Eligibility     | Stipend   | Website                   |
-|---------------------|-------------------|------------------|-----------------|-----------|---------------------------|
-| ICTS Summer research|                   |                  |                 |           |                           |
-| IITB                |                   |                  |                 |           |                           |
-| IITD                |                   |                  |                 |           |                           |
-| IITK                |                   |                  |                 |           |                           |
-| IIIT HYDERABAD      |                   |                  |                 |           |                           |
-| Mitacs Globalink    |                   |                  |                 |           |                           |
-| IIM Indore          |                   |                  |                 |           |                           |
-| IIM Kozhikode       |                   |                  |                 |           |                           |
-| IIM Lucknow         |                   |                  |                 |           |                           |
-| IIM Calcutta        |                   |                  |                 |           |                           |
-| IIM Bangalore       |                   |                  |                 |           |                           |
-| IIM Ahmedabad       |                   |                  |                 |           |                           |
+| Name                | Application Date  | Internship Date  | Eligibility     |             Website                   |
+|---------------------|-------------------|------------------|-----------------|---------------------------------------|
+| ICTS Summer research|                   |                  |                 |                                       |
+| IITB                |                   |                  |                 |                                       |
+| IITD                |                   |                  |                 |                                       |
+| IITK                |                   |                  |                 |                                       |
+| IIIT HYDERABAD      |                   |                  |                 |                                       |
+| Mitacs Globalink    |                   |                  |                 |                                       |
+| IIM Indore          |                   |                  |                 |                                       |
+| IIM Kozhikode       |                   |                  |                 |                                       |
+| IIM Lucknow         |                   |                  |                 |                                       |
+| IIM Calcutta        |                   |                  |                 |                                       |
+| IIM Bangalore       |                   |                  |                 |                                       |
+| IIM Ahmedabad       |                   |                  |                 |                                       |
 
 ## Campus Ambassador Programs
 
-| Name                       |     Timeline      | Eligibility      |     Stipend     |          Website                   |
-|----------------------------|-------------------|------------------|-----------------|------------------------------------|
-| MLSA                       |                   |                  |                 |                                    |
-| Github Campus Expert       |                   |                  |                 |                                    |
-| GDSC                       |                   |                  |                 |                                    |
-| GFG Campus Mantri          |                   |                  |                 |                                    |
-| OnePlus Student Ambassador |                   |                  |                 |                                    |
+| Name                       |     Timeline      |          Website                   |
+|----------------------------|-------------------|------------------------------------|
+| MLSA                       |                   |                                    |                                    
+| Github Campus Expert       |                   |                                    |                                    
+| GDSC                       |                   |                                    |                                    
+| GFG Campus Mantri          |                   |                                    |                                    
+| OnePlus Student Ambassador |                   |                                    |                                    
 
