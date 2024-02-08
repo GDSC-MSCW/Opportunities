@@ -9,7 +9,7 @@
 | Infosys <br> [Hackwithinfy] | Feb       |  2nd & 3rd year  |  [Check here](https://www.infosys.com/careers/hackwithinfy.html) |             
 | American Express    | April-June <br> Jan-June <br> July-Dec | 2nd & Third year <br> Final yerar <br> final year | [Check here](https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html) |             
 | Intuit              | Nov-Dec           |  3rd & Final year| [Check here](https://www.intuit.com/careers/programs/internships/) |             
-| Microsoft <br> [Engage] |                   |                  | [Check here](https://www.microsoft.com/en-ie/earlycareers/internsapprenticeships) |                           
+| Microsoft <br> [Engage] |               | 2nd year         | [Check here](https://www.microsoft.com/en-ie/earlycareers/internsapprenticeships) |                           
 | Flipkart <br> [Grid]| June              |  All years       |                               |             
 | Myntra <br> [Hackerramp] |  Sept        |                  | 3rd year        |             |                           
 | Google <br> [Step]  | May-Aug <br> June-Sept |                  |                 |             |                           
@@ -23,40 +23,40 @@
 
 #### Government Internships
 
-| Name                |    Timeline       |  Eligibility     |       Website               |    
-|---------------------|-------------------|------------------|-----------------------------|
-|    NITI Aayog       |                   |                  |                             |                           
-|    NCGG             |                   |                  |                             |                           
-|    SECI             |                   |                  |                             |                           
-|    TULIP            |                   |                  |                             |                           
-| NHRC <br> Short Term <br> Long Term |   |                  |                             |                           
-|    MEA              |                   |                  |                             |                           
-|    DPIIT            |                   |                  |                             |                           
-|    Digital India    |                   |                  |                             |                           
+| Name                |    Timeline       |                     Website                      |    
+|---------------------|-------------------|--------------------------------------------------|
+|    NITI Aayog       | 1-10 every month  | [Check here](https://www.niti.gov.in/internship) |                           
+|    NCGG             |                   | [Check here](http://www.ncgg.org.in/training/) |                           
+|    SECI             |                   | [Check here](https://www.seci.co.in/page/seci-internship) |                           
+|    TULIP            |                   | [Check here](https://internship.aicte-india.org/module_ulb/Dashboard/TulipMain/) |                           
+|    NHRC             |   | [Check here](https://nhrc.nic.in/training-programmes/short-term-internship-programme) <br>  |                           
+|    MEA              |                   | [Check here](https://internship.mea.gov.in/internship) |                           
+|    DPIIT            |                   | [Check here](https://dpiit.gov.in/internship-scheme-0) |                           
+|    Digital India    |                   | [Check here](https://www.meity.gov.in/schemes) |                           
 
 #### Finance Internships
 
 | Name                | Timeline          |  Eligibility     |            Website             |
 |---------------------|-------------------|------------------|--------------------------------|
-| Goldman Sachs       | Aug & Feb         |                  |                                |                          
-| Morgan Stanley      |                   |                  |                                |                           
-| Barclays            |                   |                  |                                |                           
-| Citi Bank           |                   |                  |                                |                           
-| JP Morgan           |                   |                  |                                |                           
-| HSBC                |                   |                  |                                |                           
-| HDFC                |                   |                  |                                |                           
-| ICICI Bank          |                   |                  |                                |                           
-| Axis                |                   |                  |                                |                           
-| Aditya Birla        |                   |                  |                                |                           
-| Kotak               |                   |                  |                                |                           
+| Goldman Sachs       | Aug & Feb         |                  | [Check here]() |                          
+| Morgan Stanley      |                   |                  | [Check here]() |                           
+| Barclays            |                   |                  | [Check here]() |                           
+| Citi Bank           |                   |                  | [Check here]() |                           
+| JP Morgan           |                   |                  | [Check here]() |                           
+| HSBC                |                   |                  | [Check here]() |                           
+| HDFC                |                   |                  | [Check here]() |                           
+| ICICI Bank          |                   |                  | [Check here]() |                           
+| Axis                |                   |                  | [Check here]() |                           
+| Aditya Birla        |                   |                  | [Check here]() |                           
+| Kotak               |                   |                  | [Check here]() |                           
 
 #### Social Internships
 
 | Name                         |     Timeline      |  Eligibility     |                 Website                     |
 |------------------------------|-------------------|------------------|---------------------------------------------|
-| iVolunteer                   |                   |                  |                                             |
-| Teach For India              |                   |                  |                                             |
-| Abhijit Sen Rural Internship |                   |                  |                                             |
+| iVolunteer                   |                   |                  | [Check here]()                              |
+| Teach For India              |                   |                  | [Check here]()                              |
+| Abhijit Sen Rural Internship |                   |                  | [Check here]()                              |
 
 ## Open Source Opportunities
 
@@ -102,26 +102,26 @@
 
 | Name                | Application Date  | Internship Date  | Eligibility     |             Website                   |
 |---------------------|-------------------|------------------|-----------------|---------------------------------------|
-| ICTS Summer research|                   |                  |                 |                                       |
-| IITB                |                   |                  |                 |                                       |
-| IITD                |                   |                  |                 |                                       |
-| IITK                |                   |                  |                 |                                       |
-| IIIT HYDERABAD      |                   |                  |                 |                                       |
-| Mitacs Globalink    |                   |                  |                 |                                       |
-| IIM Indore          |                   |                  |                 |                                       |
-| IIM Kozhikode       |                   |                  |                 |                                       |
-| IIM Lucknow         |                   |                  |                 |                                       |
-| IIM Calcutta        |                   |                  |                 |                                       |
-| IIM Bangalore       |                   |                  |                 |                                       |
-| IIM Ahmedabad       |                   |                  |                 |                                       |
+| ICTS Summer research|                   |                  |                 | [Check here]() |
+| IITB                |                   |                  |                 | [Check here]() |
+| IITD                |                   |                  |                 | [Check here]() |
+| IITK                |                   |                  |                 | [Check here]() |
+| IIIT HYDERABAD      |                   |                  |                 | [Check here]() |
+| Mitacs Globalink    |                   |                  |                 | [Check here]() |
+| IIM Indore          |                   |                  |                 | [Check here]() |
+| IIM Kozhikode       |                   |                  |                 | [Check here]() |
+| IIM Lucknow         |                   |                  |                 | [Check here]() |
+| IIM Calcutta        |                   |                  |                 | [Check here]() |
+| IIM Bangalore       |                   |                  |                 | [Check here]() |
+| IIM Ahmedabad       |                   |                  |                 | [Check here]() |
 
 ## Campus Ambassador Programs
 
 | Name                       |     Timeline      |          Website                   |
 |----------------------------|-------------------|------------------------------------|
-| MLSA                       |                   |                                    |                                    
-| Github Campus Expert       |                   |                                    |                                    
-| GDSC                       |                   |                                    |                                    
-| GFG Campus Mantri          |                   |                                    |                                    
-| OnePlus Student Ambassador |                   |                                    |                                    
+| MLSA                       |                   | [Check here]() |                                    
+| Github Campus Expert       |                   | [Check here]() |                                    
+| GDSC                       |                   | [Check here]() |                                   
+| GFG Campus Mantri          |                   | [Check here]() |                                    
+| OnePlus Student Ambassador |                   | [Check here]() |                                    
 
