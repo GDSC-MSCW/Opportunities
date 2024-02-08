@@ -119,9 +119,8 @@
 
 | Name                       |     Timeline      |          Website                   |
 |----------------------------|-------------------|------------------------------------|
-| MLSA                       |                   | [Check here]() |                                    
-| Github Campus Expert       |                   | [Check here]() |                                    
-| GDSC                       |                   | [Check here]() |                                   
-| GFG Campus Mantri          |                   | [Check here]() |                                    
-| OnePlus Student Ambassador |                   | [Check here]() |                                    
+| MLSA                       |                   | [Check here](https://mvp.microsoft.com/studentambassadors) |                                    
+| Github Campus Expert       |                   | [Check here](https://education.github.com/experts) |                                                                       
+| GFG Campus Mantri          |                   | [Check here](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/) |                                    
+| OnePlus Student Ambassador |                   | [Check here](https://www.oneplus.in/campus) |                                    
 
