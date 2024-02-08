@@ -7,17 +7,19 @@
 | Name                |     Timeline      |  Eligibility     |                      Website                                     |
 |---------------------|-------------------|------------------|------------------------------------------------------------------|
 | Infosys <br> [Hackwithinfy] | Feb       |  2nd & 3rd year  |  [Check here](https://www.infosys.com/careers/hackwithinfy.html) |             
-| American Express    | April-June <br> Jan-June <br> July-Dec | 2nd & Third year <br> Final yera <br> final year | [Check here](https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html)              
-| Intuit              | Nov-Dec           |  3rd & Final year|                               |             
-| Microsoft Engage    |                   |                  |                               |                           
-| Flipkart Grid       | June              |  All years       |                               |             
+| American Express    | April-June <br> Jan-June <br> July-Dec | 2nd & Third year <br> Final yerar <br> final year | [Check here](https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html) |             
+| Intuit              | Nov-Dec           |  3rd & Final year| [Check here](https://www.intuit.com/careers/programs/internships/) |             
+| Microsoft <br> [Engage] |                   |                  | [Check here](https://www.microsoft.com/en-ie/earlycareers/internsapprenticeships) |                           
+| Flipkart <br> [Grid]| June              |  All years       |                               |             
 | Myntra <br> [Hackerramp] |  Sept        |                  | 3rd year        |             |                           
-| Google Step         |                   |                  |                 |             |                           
-| Optum <br> [Stratethon] | Nov           |  All Years       | 35K/month       |             |              
+| Google <br> [Step]  | May-Aug <br> June-Sept |                  |                 |             |                           
+| Optum <br> [Stratethon] | Nov           |  All Years       |              |              
 | Hackerrank          |                   |                  |                 |             |                           
 | Cisco               |                   |                  |                 |             |                           
 | BNY Mellon          |                   |                  |                 |             |                           
-| DeShaw              |                   |                  |                 |             |                           
+| DeShaw              |                   |                  |                 |             |
+|Samsung <br> [Parichay] |           | 2nd Year |
+| Atlassian <br> [Hack @ Home] |  | 2nd & 3rd year |
 
 #### Government Internships
 
