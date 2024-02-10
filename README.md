@@ -23,7 +23,7 @@
 
 #### Government Internships
 
-| Name                |    Timeline       |                     Website                      |    
+| Name                | Application Date  |                     Website                      |    
 |---------------------|-------------------|--------------------------------------------------|
 |    NITI Aayog       | 1-10 every month  | [Check here](https://www.niti.gov.in/internship) |                           
 |    NCGG             |                   | [Check here](http://www.ncgg.org.in/training/) |                           
