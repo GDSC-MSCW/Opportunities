@@ -7,7 +7,7 @@
 | Name                |     Timeline      |  Eligibility     |                      Website                                     |
 |---------------------|-------------------|------------------|------------------------------------------------------------------|
 | Infosys <br> [Hackwithinfy] | Feb       |  2nd & 3rd year  |  [Check here](https://www.infosys.com/careers/hackwithinfy.html) |             
-| American Express    | <br> April-June <br> Jan-June <br> July-Dec | <br> 2nd & Third year <br> Final yerar <br> final year | [Check here](https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html) |             
+| American Express    | April-June <br> Jan-June <br> July-Dec | 2nd & Third year <br> Final yerar <br> final year | [Check here](https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html) |             
 | Intuit              | Nov-Dec           |  3rd & Final year| [Check here](https://www.intuit.com/careers/programs/internships/) |             
 | Microsoft <br> [Engage] | April         | 2nd year         | [Check here](https://www.microsoft.com/en-ie/earlycareers/internsapprenticeships) |                           
 | Flipkart <br> [Grid] <br> [Runway]| <br> June <br> 11 March 2024 | <br> All years <br> 2nd year or 3rd year of dual degree students | <br> [Check here]() <br> [Check here](https://unstop.com/competitions/flipkart-runway-season-4-flipkart-901610)|             
