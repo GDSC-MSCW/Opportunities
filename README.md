@@ -31,23 +31,7 @@
 |    NHRC             |   | [Check here](https://nhrc.nic.in/training-programmes/short-term-internship-programme) <br>  |                           
 |    MEA              |                   | [Check here](https://internship.mea.gov.in/internship) |                           
 |    DPIIT            |                   | [Check here](https://dpiit.gov.in/internship-scheme-0) |                           
-|    Digital India    |                   | [Check here](https://www.meity.gov.in/schemes) |                           
-
-#### Finance Internships
-
-| Name                | Timeline          |  Eligibility     |            Website             |
-|---------------------|-------------------|------------------|--------------------------------|
-| Goldman Sachs       | Aug & Feb         |                  | [Check here]() |                          
-| Morgan Stanley      |                   |                  | [Check here]() |                           
-| Barclays            |                   |                  | [Check here]() |                           
-| Citi Bank           |                   |                  | [Check here]() |                           
-| JP Morgan           |                   |                  | [Check here]() |                           
-| HSBC                |                   |                  | [Check here]() |                           
-| HDFC                |                   |                  | [Check here]() |                           
-| ICICI Bank          |                   |                  | [Check here]() |                           
-| Axis                |                   |                  | [Check here]() |                           
-| Aditya Birla        |                   |                  | [Check here]() |                           
-| Kotak               |                   |                  | [Check here]() |                           
+|    Digital India    |                   | [Check here](https://www.meity.gov.in/schemes) |                                                      
 
 #### Social Internships
 
