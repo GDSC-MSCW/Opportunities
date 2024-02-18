@@ -119,7 +119,7 @@
 
 | Name                       |     Application   |          Website                   |
 |----------------------------|-------------------|------------------------------------|
-| MLSA                       |                   | [Check here](https://mvp.microsoft.com/studentambassadors) |   
+| MLSA                       | applications are reviewed  quarterly | [Check here](https://mvp.microsoft.com/studentambassadors) |   
 | AWS Cloud Captains         | till 23rd feb 2024| [Check here](https://community.aws/students)
 | Github Campus Expert       |  till 29 feb 2024 | [Check here](https://education.github.com/experts) |                                                                       
 | GFG Campus Mantri          |                   | [Check here](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/) |                                    
