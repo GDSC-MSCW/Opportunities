@@ -78,20 +78,9 @@
 
 ## Research Opportunities
 
-| Name                | Application Date  | Internship Date  | Eligibility     |             Website                   |
-|---------------------|-------------------|------------------|-----------------|---------------------------------------|
-| ICTS Summer research|                   |                  |                 | [Check here]() |
-| IITB                |                   |                  |                 | [Check here]() |
-| IITD                |                   |                  |                 | [Check here]() |
-| IITK                |                   |                  |                 | [Check here]() |
-| IIIT HYDERABAD      |                   |                  |                 | [Check here]() |
-| Mitacs Globalink    |                   |                  |                 | [Check here]() |
-| IIM Indore          |                   |                  |                 | [Check here]() |
-| IIM Kozhikode       |                   |                  |                 | [Check here]() |
-| IIM Lucknow         |                   |                  |                 | [Check here]() |
-| IIM Calcutta        |                   |                  |                 | [Check here]() |
-| IIM Bangalore       |                   |                  |                 | [Check here]() |
-| IIM Ahmedabad       |                   |                  |                 | [Check here]() |
+| Name                | Application Date       | Internship Date  | Eligibility     |  Stipened   |                      Website                             |
+|---------------------|------------------------|------------------|-----------------|-------------|----------------------------------------------------------|
+| SRIP IITGN          | Feb 10 - March 5, 2024 | May 5 - July 15  | All years       | Rs 2000/week| [Check here](https://srip.iitgn.ac.in/portal/apply-now/) |
 
 ## Campus Ambassador Programs
 
