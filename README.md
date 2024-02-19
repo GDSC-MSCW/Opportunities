@@ -12,7 +12,8 @@
 | Microsoft <br> [Engage] | April         | 2nd year         | [Check here](https://www.microsoft.com/en-ie/earlycareers/internsapprenticeships) |                           
 | Flipkart <br> [Runway] <br> [Grid]| <br> 11 March 2024 <br> June | <br> 2nd year or 3rd year of dual degree students <br> All years | <br> [Check here](https://unstop.com/competitions/flipkart-runway-season-4-flipkart-901610) <br> [Check here]()|             
 | Myntra <br> [Hackerramp] |  Sept        |  3rd year        | [Check here]() |                           
-| Google <br> [Step]  | <br> till 19th Jan 2024 <br>   | <br> all years | <br> [Check here](https://www.proelevate.in/job/step-student-training-in-engineering-programme-internship-1) |       | Optum <br> [Stratethon] | Nov           |  2nd year        | [Check here](https://www.optum.in/about/careers.html) |              
+| Google <br> [Step]  | <br> till 19th Jan 2024 <br>   | <br> 2nd year | <br> [Check here](https://www.proelevate.in/job/step-student-training-in-engineering-programme-internship-1) |       | 
+Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https://www.optum.in/about/careers.html) |              
 
 #### Government Internships
 
