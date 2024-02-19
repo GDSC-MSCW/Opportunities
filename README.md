@@ -6,11 +6,11 @@
 
 | Name                |     Timeline      |  Eligibility     |                      Website                                     |
 |---------------------|-------------------|------------------|------------------------------------------------------------------|
-| Infosys <br> [Hackwithinfy] | Feb       |  2nd & 3rd year  |  [Check here](https://www.infosys.com/careers/hackwithinfy.html) |             
+| Infosys <br> [Hackwithinfy] <br> [Springboard] | <br> Feb <br> Feb      | <br> 2nd & 3rd year <br> All years  | <br>  [Check here](https://www.infosys.com/careers/hackwithinfy.html) <br> [Check here](https://infyspringboard.onwingspan.com/web/en/page/embed-gno?survey=2017)| 
 | American Express    | April-June <br> Jan-June <br> July-Dec | 2nd & Third year <br> Final yerar <br> final year | [Check here](https://www.americanexpress.com/en-us/careers/student-programs/global-students-page.html) |             
 | Intuit              | Nov-Dec           |  3rd & Final year| [Check here](https://www.intuit.com/careers/programs/internships/) |             
 | Microsoft <br> [Engage] | April         | 2nd year         | [Check here](https://www.microsoft.com/en-ie/earlycareers/internsapprenticeships) |                           
-| Flipkart <br> [Grid] <br> [Runway]| <br> June <br> 11 March 2024 | <br> All years <br> 2nd year or 3rd year of dual degree students | <br> [Check here]() <br> [Check here](https://unstop.com/competitions/flipkart-runway-season-4-flipkart-901610)|             
+| Flipkart <br> [Runway] <br> [Grid]| <br> 11 March 2024 <br> June | <br> 2nd year or 3rd year of dual degree students <br> All years | <br> [Check here](https://unstop.com/competitions/flipkart-runway-season-4-flipkart-901610) <br> [Check here]()|             
 | Myntra <br> [Hackerramp] |  Sept        |  3rd year        | [Check here]() |                           
 | Google <br> [Step]  | <br> till 19th Jan 2024 <br>   | <br> all years | <br> [Check here](https://www.proelevate.in/job/step-student-training-in-engineering-programme-internship-1) |       | Optum <br> [Stratethon] | Nov           |  All Years       | [Check here](https://www.optum.in/about/careers.html) |              
 
