@@ -12,34 +12,28 @@
 | Microsoft <br> [Engage] | April         | 2nd year         | [Check here](https://www.microsoft.com/en-ie/earlycareers/internsapprenticeships) |                           
 | Flipkart <br> [Grid] <br> [Runway]| <br> June <br> 11 March 2024 | <br> All years <br> 2nd year or 3rd year of dual degree students | <br> [Check here]() <br> [Check here](https://unstop.com/competitions/flipkart-runway-season-4-flipkart-901610)|             
 | Myntra <br> [Hackerramp] |  Sept        |  3rd year        | [Check here]() |                           
-| Google <br> [Step]  | <br> till 19th Jan 2024 <br>   | <br> all years | <br> [Check here](https://www.proelevate.in/job/step-student-training-in-engineering-programme-internship-1) |       | Optum <br> [Stratethon] | Nov           |  All Years       |              |              
-| Hackerrank          |                   |                  |                 |             |                           
-| Cisco               |                   |                  |                 |             |                           
-| BNY Mellon          |                   |                  |                 |             |                           
-| DeShaw              |                   |                  |                 |             |
-|Samsung <br> [Parichay] |           | 2nd Year |
-| Atlassian <br> [Hack @ Home] |  | 2nd & 3rd year |
+| Google <br> [Step]  | <br> till 19th Jan 2024 <br>   | <br> all years | <br> [Check here](https://www.proelevate.in/job/step-student-training-in-engineering-programme-internship-1) |       | Optum <br> [Stratethon] | Nov           |  All Years       | [Check here](https://www.optum.in/about/careers.html) |              
 
 #### Government Internships
 
 | Name                | Application Date  |                     Website                      |    
 |---------------------|-------------------|--------------------------------------------------|
 |    NITI Aayog       | 1-10 every month  | [Check here](https://www.niti.gov.in/internship) |                           
-|    NCGG             |                   | [Check here](http://www.ncgg.org.in/training/) |                           
-|    SECI             |                   | [Check here](https://www.seci.co.in/page/seci-internship) |                           
-|    TULIP            |                   | [Check here](https://internship.aicte-india.org/module_ulb/Dashboard/TulipMain/) |                           
-|    NHRC             |   | [Check here](https://nhrc.nic.in/training-programmes/short-term-internship-programme) <br>  |                           
-|    MEA              |                   | [Check here](https://internship.mea.gov.in/internship) |                           
-|    DPIIT            |                   | [Check here](https://dpiit.gov.in/internship-scheme-0) |                           
-|    Digital India    |                   | [Check here](https://www.meity.gov.in/schemes) |                                                      
+|    NCGG             | Apply year-round, one month before internship | [Check here](http://www.ncgg.org.in/training/) |                           
+|    SECI             | 1-10 every month  | [Notice](https://www.seci.co.in/page/seci-internship) |                           
+|    AICTE TULIP      | [Check here](https://internship.aicte-india.org/fetch_ubl1.php) | [Check here](https://internship.aicte-india.org/module_ulb/Dashboard/TulipMain/) |                   
+|    NHRC             | 5-16 feb 2024 <br> [Notice](https://nhrc.nic.in/sites/default/files/OSTI%205%20to%2016%20feb.%202024.pdf) | [Check here](https://nhrc.nic.in/training-programmes/short-term-internship-programme) |                           
+|    MEA              | 1-14 Jan 2024 <br> [Notice](https://internship.mea.gov.in/Timeline_Intern_Prog_2024_Term_I)| [Check here](https://internship.mea.gov.in/internship) |                  
+|    DPIIT            | Always open       | [Check here](https://dpiit.gov.in/internship-scheme-0) |                           
+|    Digital India    | April             | [Check here](https://www.meity.gov.in/schemes) |                                                      
 
 #### Social Internships
 
-| Name                         |     Timeline      |  Eligibility     |                 Website                     |
-|------------------------------|-------------------|------------------|---------------------------------------------|
-| iVolunteer                   |                   |                  | [Check here]()                              |
-| Teach For India              |                   |                  | [Check here]()                              |
-| Abhijit Sen Rural Internship |                   |                  | [Check here]()                              |
+| Name                         | Application Date  |                  Website                       |
+|------------------------------|-------------------|------------------------------------------------|
+| iVolunteer                   | [ivolunteer calender](https://www.ivolunteer.in/calendar)          |  [Check here](https://www.ivolunteer.in/) |
+| Teach For India              |  17 March 2024    | [Check here](https://apply.teachforindia.org/) |
+| Abhijit Sen Rural Internship |  December         |  [Check here](https://nfi.org.in/internship)|
 
 ## Open Source Opportunities
 
@@ -104,7 +98,4 @@
 |----------------------------|-------------------|------------------------------------|
 | MLSA                       | applications are reviewed  quarterly | [Check here](https://mvp.microsoft.com/studentambassadors) |   
 | AWS Cloud Captains         | till 23rd feb 2024| [Check here](https://community.aws/students)
-| Github Campus Expert       |  till 29 feb 2024 | [Check here](https://education.github.com/experts) |                                                                       
-| GFG Campus Mantri          |                   | [Check here](https://www.geeksforgeeks.org/campus-ambassador-program-by-geeksforgeeks/) |                                    
-| OnePlus Student Ambassador |                   | [Check here](https://www.oneplus.in/campus) |                                    
-
+| Github Campus Expert       |  till 29 feb 2024 | [Check here](https://education.github.com/experts) |                                                                                        
