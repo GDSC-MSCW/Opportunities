@@ -13,7 +13,8 @@
 | Flipkart <br> [Runway] <br> [Grid]| <br> 11 March 2024 <br> June | <br> 2nd year or 3rd year of dual degree students <br> All years | <br> [Check here](https://unstop.com/competitions/flipkart-runway-season-4-flipkart-901610) <br> [Check here]()|             
 | Myntra <br> [Hackerramp] |  Sept        |  3rd year        | [Check here]() |                           
 | Google <br> [Step]  | <br> till 19th Jan 2024 <br>   | <br> 2nd year | <br> [Check here](https://www.proelevate.in/job/step-student-training-in-engineering-programme-internship-1) |       | 
-Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https://www.optum.in/about/careers.html) |              
+Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https://www.optum.in/about/careers.html) |  
+| FOSSASIA              |  To be decided individually | All years | [Check here](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform) |
 
 #### Government Internships
 
