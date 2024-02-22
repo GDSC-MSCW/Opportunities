@@ -22,10 +22,10 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 |---------------------|-------------------|--------------------------------------------------|
 |    NITI Aayog       | 1-10 every month  | [Check here](https://www.niti.gov.in/internship) |                           
 |    NCGG             | Apply year-round, one month before internship | [Check here](http://www.ncgg.org.in/training/) |                           
-|    SECI             | 1-10 every month  | [Notice](https://www.seci.co.in/page/seci-internship) |                           
+|    SECI             | 1-10 every month  | [Check here](https://www.seci.co.in/page/seci-internship) |                           
 |    AICTE TULIP      | [Check here](https://internship.aicte-india.org/fetch_ubl1.php) | [Check here](https://internship.aicte-india.org/module_ulb/Dashboard/TulipMain/) |                   
-|    NHRC             | 5-16 feb 2024 <br> [Notice](https://nhrc.nic.in/sites/default/files/OSTI%205%20to%2016%20feb.%202024.pdf) | [Check here](https://nhrc.nic.in/training-programmes/short-term-internship-programme) |                           
-|    MEA              | 1-14 Jan 2024 <br> [Notice](https://internship.mea.gov.in/Timeline_Intern_Prog_2024_Term_I)| [Check here](https://internship.mea.gov.in/internship) |                  
+|    NHRC             | [5-16 feb 2024](https://nhrc.nic.in/sites/default/files/OSTI%205%20to%2016%20feb.%202024.pdf) | [Check here](https://nhrc.nic.in/training-programmes/short-term-internship-programme) |                           
+|    MEA              | [1-14 Jan 2024](https://internship.mea.gov.in/Timeline_Intern_Prog_2024_Term_I)| [Check here](https://internship.mea.gov.in/internship) |                  
 |    DPIIT            | Always open       | [Check here](https://dpiit.gov.in/internship-scheme-0) |                           
 |    Digital India    | April             | [Check here](https://www.meity.gov.in/schemes) |                                                      
 
