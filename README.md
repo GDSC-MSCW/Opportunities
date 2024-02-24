@@ -80,9 +80,11 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 
 ## Research Opportunities
 
-| Name                | Application Date       | Internship Date  | Eligibility     |  Stipened   |                      Website                             |
-|---------------------|------------------------|------------------|-----------------|-------------|----------------------------------------------------------|
-| SRIP IITGN          | Feb 10 - March 5, 2024 | May 5 - July 15  | All years       | Rs 2000/week| [Check here](https://srip.iitgn.ac.in/portal/apply-now/) |
+| Name                | Application Date       | Internship Date  |  Stipened   |                      Website                             |
+|---------------------|------------------------|------------------|-------------|----------------------------------------------------------|
+| SRIP IITGN          | Feb 10 - March 5, 2024 | May 5 - July 15  | Rs 2000/week| [Check here](https://srip.iitgn.ac.in/portal/apply-now/) |
+| SFRFP IITD          | Feb - March 19, 2024   | May 14 - July 12 |             | [Check here](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) |
+| SURE IIITH          | Feb 2 - March 10, 2024 | May 15 - July 14  | Rs. 15,000 per intern altogether for 2 months <br> Rs. 7,500 per month per intern & Rs. 10,000 <br> for one-and-a-half months | [Check here](https://www.iith.ac.in/news/2024/02/15/Summer-Undergraduate-Research-Exposure/) |
 
 ## Campus Ambassador Programs
 
