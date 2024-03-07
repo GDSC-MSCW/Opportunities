@@ -86,7 +86,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 | SFRFP IITD          | Feb - March 19, 2024   | May 14 - July 12 |             | [Check here](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) |
 | SURE IIITH <br> [ 1 month] <br> [1.5 month] <br> [2 months] | Feb 2 - March 10, 2024 <br> <br> <br> | May 15 - July 14 <br> <br>  <br> | <br> Rs. 7,500  per intern <br> Rs. 10,000 per intern <br> Rs. 15,000 per intern | [Check here](https://www.iith.ac.in/news/2024/02/15/Summer-Undergraduate-Research-Exposure/) |
 | IISER Mohali        | till March 22, 2024    | May 15 - July 22, 2024 |   | [Check here](https://www.iisermohali.ac.in/home/front-page-articles/summer-research-program-2024) |
-| IIITD               | March 1 - March 31, 2024 | Internship will commence from 6th May | Rs 5K/month | [Check here](https://www.iiitd.ac.in/placement/summer-internships) |
+| IIITD               | March 1 - March 31, 2024 | Internship will commence <br> from 6th May | Rs 5K/month | [Check here](https://www.iiitd.ac.in/placement/summer-internships) |
 
 ## Campus Ambassador Programs
 
