@@ -85,6 +85,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 | SRIP IITGN          | Feb 10 - March 5, 2024 | May 5 - July 15  | Rs 2000/week| [Check here](https://srip.iitgn.ac.in/portal/apply-now/) |
 | SFRFP IITD          | Feb - March 19, 2024   | May 14 - July 12 |             | [Check here](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) |
 | SURE IIITH <br> [ 1 month] <br> [1.5 month] <br> [2 months] | Feb 2 - March 10, 2024 <br> <br> <br> | May 15 - July 14 <br> <br>  <br> | <br> Rs. 7,500  per intern <br> Rs. 10,000 per intern <br> Rs. 15,000 per intern | [Check here](https://www.iith.ac.in/news/2024/02/15/Summer-Undergraduate-Research-Exposure/) |
+| IISER Mohali        | till March 22, 2024    | May 15 - July 22, 2024 |   | [Check here](https://www.iisermohali.ac.in/home/front-page-articles/summer-research-program-2024) |
 
 ## Campus Ambassador Programs
 
