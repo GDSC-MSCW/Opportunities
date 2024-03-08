@@ -90,7 +90,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 | IISER Mohali        | till March 22, 2024    | May 15 - July 22, 2024 |   | [Check here](https://www.iisermohali.ac.in/home/front-page-articles/summer-research-program-2024) |
 | IIITD               | March 1 - March 31, 2024 |  from 6th May | Rs 5000/month | [Check here](https://www.iiitd.ac.in/placement/summer-internships) |
 | Invention Factory   | till March 31, 2024 |  from May | Rs 10,000 | [Check here](https://makerbhavanfoundation.org/programs/invention-factory/application-form/) |
-| SIPGA               | Rolling applications accepted <br> year-round; ensure attachment <br> start date is at least <br> 4 months from application.| 2 - 6 month | $2,000/month | [Check here](https://form.gov.sg/659bcbb68bbf430011fef143) |
+| SIPGA               | Rolling applications <br> accepted year-round; <br> ensure attachment <br> start date is at least <br> 4 months from application.| 2 - 6 month | $2,000/month | [Check here](https://form.gov.sg/659bcbb68bbf430011fef143) |
 
 ## Campus Ambassador Programs
 
