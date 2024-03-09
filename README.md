@@ -52,7 +52,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 |LFX Mentorship <br> [Spring Term] <br> [Summer Term] <br> [Fall Term] | <br> mid Jan <br> mid April <br> mid July | <br> March 1 - May 31 <br> June 1 - August 31 <br> September 1 - Nov 30 | $6000 | [Check here](https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines) |
 |                  RLOS                      | Feb - March             | May - Aug  | $10,000  | [Check here](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/about/) |
 |                  RGSOC                     | March 2 - March 30 | July - Sept       | Yes | [Check here](https://railsgirlssummerofcode.org/) |
-|       Tublian open-source internship       | till March 11, 2024 | 4 weeks | Certificate | [Check here](https://www.tublian.com/internship) |
+|       Tublian open-source internship       | check on website | 4 weeks | Certificate | [Check here](https://www.tublian.com/internship) |
 |       Code For GovTech                     | May 15 - Jun 11     | July 1 - Aug 30 | INR 1 lakh | [Check here](https://www.codeforgovtech.in/apply) |
 |       Mozilla Winter of Security           | July 29 - Sept 30 | 6 months | No | [Check here](https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016) |
 
