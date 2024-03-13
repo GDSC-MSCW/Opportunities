@@ -31,6 +31,13 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 | Invention Factory   | till March 31, 2024 |  from May | Rs 10,000 | [Check here](https://makerbhavanfoundation.org/programs/invention-factory/application-form/) |
 | SIPGA               | Rolling applications <br> accepted year-round; <br> ensure attachment <br> start date is at least <br> 4 months from application.| 2 - 6 month | $2,000/month | [Check here](https://form.gov.sg/659bcbb68bbf430011fef143) |
 
+## Campus Ambassador Programs
+
+| Name                       |     Application   |          Website                   |
+|----------------------------|-------------------|------------------------------------|
+| MLSA                       | applications are reviewed  quarterly | [Check here](https://mvp.microsoft.com/studentambassadors) |   
+| AWS Cloud Captains         | till 23rd feb 2024| [Check here](https://community.aws/students)
+| Github Campus Expert       |  till 29 feb 2024 | [Check here](https://education.github.com/experts) |  
 
 
 #### Government Internships
@@ -46,13 +53,6 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 |    DPIIT            | Always open       | [Check here](https://dpiit.gov.in/internship-scheme-0) |                           
 |    Digital India    | April             | [Check here](https://www.meity.gov.in/schemes) |                                                      
 
-#### Social Internships
-
-| Name                         | Application Date  |                  Website                       |
-|------------------------------|-------------------|------------------------------------------------|
-| iVolunteer                   | [ivolunteer calender](https://www.ivolunteer.in/calendar)          |  [Check here](https://www.ivolunteer.in/) |
-| Teach For India              |  17 March 2024    | [Check here](https://apply.teachforindia.org/) |
-| Abhijit Sen Rural Internship |  December         |  [Check here](https://nfi.org.in/internship)|
 
 ## Open Source Opportunities
 
@@ -96,10 +96,10 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 
 
 
-## Campus Ambassador Programs
+#### Social Internships
 
-| Name                       |     Application   |          Website                   |
-|----------------------------|-------------------|------------------------------------|
-| MLSA                       | applications are reviewed  quarterly | [Check here](https://mvp.microsoft.com/studentambassadors) |   
-| AWS Cloud Captains         | till 23rd feb 2024| [Check here](https://community.aws/students)
-| Github Campus Expert       |  till 29 feb 2024 | [Check here](https://education.github.com/experts) |                                                                                        
+| Name                         | Application Date  |                  Website                       |
+|------------------------------|-------------------|------------------------------------------------|
+| iVolunteer                   | [ivolunteer calender](https://www.ivolunteer.in/calendar)          |  [Check here](https://www.ivolunteer.in/) |
+| Teach For India              |  17 March 2024    | [Check here](https://apply.teachforindia.org/) |
+| Abhijit Sen Rural Internship |  December         |  [Check here](https://nfi.org.in/internship)|
