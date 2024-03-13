@@ -23,7 +23,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 |---------------------|------------------------|------------------|-------------|----------------------------------------------------------|
 | SRIP IITGN          | Feb 10 - March 5, 2024 | May 5 - July 15  | Rs 2000/week| [Check here](https://srip.iitgn.ac.in/portal/apply-now/) |
 | SFRFP IITD          | Feb - March 19, 2024   | May 14 - July 12 |             | [Check here](https://cepqip.iitd.ac.in/qip/info.php?id=sfrf) |
-| SURE IITH <br> [ 1 month] <br> [1.5 month] <br> [2 months] | Feb 2 - March 10, 2024 <br> <br> <br> | May 15 - July 14 <br> <br>  <br> | <br> Rs. 7,500  per intern <br> Rs. 10,000 per intern <br> Rs. 15,000 per intern | [Check here](https://www.iith.ac.in/news/2024/02/15/Summer-Undergraduate-Research-Exposure/) |
+| SURE IITH <br> [ 1 month] <br> [1.5 month] <br> [2 months] | Feb 2 - March 10, 2024 <br> <br> <br> | May 15 - July 14 <br> <br>  <br> | <br> Rs. 7,500/intern <br> Rs. 10,000/intern <br> Rs. 15,000/intern | [Check here](https://www.iith.ac.in/news/2024/02/15/Summer-Undergraduate-Research-Exposure/) |
 | CDS IISC Banglore   | till 15 March, 2024    | May - July, 2024 | Yes         | [Check here](https://cds.iisc.ac.in/call-for-cds-summer-research-internship-2024/) |
 | IISER Mohali        | till March 22, 2024    | May 15 - July 22, 2024 |   | [Check here](https://www.iisermohali.ac.in/home/front-page-articles/summer-research-program-2024) |
 | IIT Ropar           | till March 24, 2024    |  May 15 - July 15, 2024 |  | [Check here](https://www.iitrpr.ac.in/studentportal/summerinternship-2024) |
