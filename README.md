@@ -17,7 +17,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 | FOSSASIA              |  To be decided individually | All years | [Check here](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform) |
 
 
-## Research Opportunities
+#### Research Opportunities
 
 | Name                | Application Date       | Internship Date  |  Stipened   |                      Website                             |
 |---------------------|------------------------|------------------|-------------|----------------------------------------------------------|
@@ -31,7 +31,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 | Invention Factory   | till March 31, 2024 |  from May | Rs 10,000 | [Check here](https://makerbhavanfoundation.org/programs/invention-factory/application-form/) |
 | SIPGA               | Rolling applications <br> accepted year-round; <br> ensure attachment <br> start date is at least <br> 4 months from application.| 2 - 6 month | $2,000/month | [Check here](https://form.gov.sg/659bcbb68bbf430011fef143) |
 
-## Campus Ambassador Programs
+#### Campus Ambassador Programs
 
 | Name                       |     Application   |          Website                   |
 |----------------------------|-------------------|------------------------------------|
