@@ -17,7 +17,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 | FOSSASIA              |  To be decided individually | All years | [Check here](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform) |
 
 
-#### Research Opportunities
+## Research Opportunities
 
 | Name                | Application Date       | Internship Date  |  Stipened   |                      Website                             |
 |---------------------|------------------------|------------------|-------------|----------------------------------------------------------|
@@ -96,7 +96,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 
 
 
-#### Social Internships
+### Social Internships
 
 | Name                         | Application Date  |                  Website                       |
 |------------------------------|-------------------|------------------------------------------------|
