@@ -30,14 +30,7 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 | IIITD               | March 1 - 31, 2024 |  from 6th May | Rs 5000/month | [Check here](https://www.iiitd.ac.in/placement/summer-internships) |
 | Invention Factory   | till March 31, 2024 |  from May | Rs 10,000 | [Check here](https://makerbhavanfoundation.org/programs/invention-factory/application-form/) |
 | SIPGA               | Rolling applications <br> accepted year-round; <br> ensure attachment <br> start date is at least <br> 4 months from application.| 2 - 6 month | $2,000/month | [Check here](https://form.gov.sg/659bcbb68bbf430011fef143) |
-
-#### Campus Ambassador Programs
-
-| Name                       |     Application   |          Website                   |
-|----------------------------|-------------------|------------------------------------|
-| MLSA                       | applications are reviewed  quarterly | [Check here](https://mvp.microsoft.com/studentambassadors) |   
-| AWS Cloud Captains         | till 23rd feb 2024| [Check here](https://community.aws/students)
-| Github Campus Expert       |  till 29 feb 2024 | [Check here](https://education.github.com/experts) |  
+  
 
 
 #### Government Internships
@@ -94,7 +87,13 @@ Optum <br> [Stratethon] | Nov           |  All years        | [Check here](https
 |       JGEC          |  Dec 7 - Dec 26  |   Jan 5 - Feb 19    | Prizes For Winners      |  [Check here](https://jgec-winter-of-code.github.io/#timeline) |
 |   FOSS Overflow     | Dec 16 - Dec 30  | Jan 6 - Feb 6       | Stipend upto 10k INR & Swags                | [Check here](https://fossoverflow.dev/)    | 
 
+#### Campus Ambassador Programs
 
+| Name                       |     Application   |          Website                   |
+|----------------------------|-------------------|------------------------------------|
+| MLSA                       | applications are reviewed  quarterly | [Check here](https://mvp.microsoft.com/studentambassadors) |   
+| AWS Cloud Captains         | till 23rd feb 2024| [Check here](https://community.aws/students)
+| Github Campus Expert       |  till 29 feb 2024 | [Check here](https://education.github.com/experts) |
 
 ### Social Internships
 
